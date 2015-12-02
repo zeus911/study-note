@@ -112,3 +112,4 @@ end
 
 DailyFailRate.new.main
 ```
+`[Back](/)`
