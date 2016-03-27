@@ -9,7 +9,7 @@
 * [Hadoop](/job-experience/hadoop/README.md)
 	1. hadoop streaming
 	2. Hive
-* [MySQL](/job-experience/elasticsearch/README.md)
+* [MySQL](/job-experience/mysql/README.md)
 
 ### 工具使用
 * [Sublime](/job-use/sublime3/README.md)
@@ -21,3 +21,8 @@
 * 工具类
 	1. git 权威指南
 		1. [暂存区](/reading-note/git/the-definitive-guide-of-git/zan-cun-qu.md)
+
+* Ruby&Rails
+	1. Ruby元编程
+		1. [章节笔记](/reading-note/ruby_and_rails/Metepramming_ruby/chapter_note.md)
+		2. 法术手册
